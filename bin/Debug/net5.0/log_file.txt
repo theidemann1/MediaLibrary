@@ -2,3 +2,17 @@
 2021-10-04 08:29:14.2533|INFO|MediaLibrary.Program|Program ended.
 2021-10-04 08:37:53.8975|INFO|MediaLibrary.Program|Program started.
 2021-10-04 08:37:53.9214|INFO|MediaLibrary.Program|Program ended.
+2021-10-04 09:01:39.8689|INFO|MediaLibrary.Program|Program started.
+2021-10-04 09:01:39.9079|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-10-04 09:01:39.9079|ERROR|MediaLibrary.FileScrubber|Could not find file 'C:\Users\bitstudent\source\repos\MediaLibrary\movies.csv'.
+2021-10-04 09:01:39.9079|INFO|MediaLibrary.Program|
+2021-10-04 09:01:39.9079|INFO|MediaLibrary.Program|Program ended.
+2021-10-04 09:03:09.2047|INFO|MediaLibrary.Program|Program started.
+2021-10-04 09:03:09.2426|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-10-04 09:03:09.2426|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-10-04 09:03:09.2426|INFO|MediaLibrary.Program|Program ended.
+2021-10-04 09:03:32.4167|INFO|MediaLibrary.Program|Program started.
+2021-10-04 09:03:32.4551|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-10-04 09:03:32.4779|INFO|MediaLibrary.FileScrubber|File scrub ended
+2021-10-04 09:03:32.4779|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-10-04 09:03:32.4779|INFO|MediaLibrary.Program|Program ended.

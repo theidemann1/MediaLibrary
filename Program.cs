@@ -12,6 +12,7 @@ namespace MediaLibrary
         {
             logger.Info("Program started.");
 
+            /*
             Movie movie = new Movie
             {
                 mediaId = 123,
@@ -43,6 +44,7 @@ namespace MediaLibrary
                 genres = { "Suspense", "Mystery" }
             };
             Console.WriteLine(book.Display());
+            */
 
             string scrubbedFile = FileScrubber.ScrubMovies("movies.csv");
             logger.Info(scrubbedFile);
